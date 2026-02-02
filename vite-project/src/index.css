@@ -1,0 +1,10 @@
+.logo {
+  font-size: 32px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+
+.logo span {
+  color: #c49b63; 
+}
